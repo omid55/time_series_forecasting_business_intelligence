@@ -1,0 +1,61 @@
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\TestWpfSVM.exe
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\TestWpfSVM.pdb
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\Emgu.CV.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\Emgu.CV.ML.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\Emgu.CV.UI.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\Emgu.Util.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\bin\Debug\ZedGraph.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MyAllProjects.csproj.ResolveComReference.cache
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ArimaGA.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridArimaSVM.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MainWindow.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\NetGAxaml.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\SVMWindow.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ArimaGA.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridArimaSVM.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\NetGAxaml.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\SVMWindow.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\App.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM_MarkupCompile.cache
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.g.resources
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.Properties.Resources.resources
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.exe
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.pdb
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridComplexModel.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridComplexModel.g.cs
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\BestHybrid.baml
+C:\Users\SONY\Documents\Visual Studio 2010\Projects\TestWpfSVM\TestWpfSVM\obj\x86\Debug\BestHybrid.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\Interop.MLApp.dll
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MyAllProjects.csproj.ResolveComReference.cache
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.exe
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.pdb
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\bin\Debug\TestWpfSVM.exe
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\bin\Debug\TestWpfSVM.pdb
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\bin\Debug\ZedGraph.dll
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ArimaGA.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\BestHybrid.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridArimaSVM.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridComplexModel.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MainWindow.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\NetGAxaml.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\SVMWindow.baml
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\ArimaGA.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\BestHybrid.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridArimaSVM.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\HybridComplexModel.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\MainWindow.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\NetGAxaml.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\SVMWindow.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\App.g.cs
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM_MarkupCompile.cache
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.g.resources
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\TestWpfSVM.Properties.Resources.resources
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyProgrammingPlace\Programming\Machine Learning\Projects\Forecast Time Series Project\ALL Projects\LATEST\TestWpfSVM\TestWpfSVM\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,24 @@
+﻿<Window x:Class="TestWpfSVM.BestHybrid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BestHybrid" Height="421" Width="462" Closing="Window_Closing">
+    <Grid>
+        <Button Content="Start Best Model" HorizontalAlignment="Left" Margin="154,135,0,0" MinWidth="120" Name="StartButton" Padding="10" VerticalAlignment="Top" Width="184" Click="StartButton_Click" />
+        <ComboBox Height="21" HorizontalAlignment="Left" Margin="344,145,0,0" Name="CompareComboBox" SelectedIndex="0" VerticalAlignment="Top" Width="72">
+            <ComboBoxItem Content="MSE" />
+            <ComboBoxItem Content="ERROR%" />
+        </ComboBox>
+        <ProgressBar IsEnabled="True" IsIndeterminate="False" Margin="15,184,2,138" MinHeight="20" Name="ActivityProgressBar" VerticalAlignment="Center" />
+        <ScrollViewer Margin="0,227,2,0" MaxHeight="300" VerticalContentAlignment="Center">
+            <ListBox Name="ResultListBox" />
+        </ScrollViewer>
+        <Label Content="Number Of Input Variables :" HorizontalAlignment="Left" Margin="90,94,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="26" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="259,94,0,0" Name="NumberOfInpTextBox" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="61" Text="6" />
+        <Label Content="Number Of Test Cases In Forecasting :" HorizontalAlignment="Left" Margin="73,42,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="26" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="296,42,0,0" Name="ForecastTestTextBox" Text="5" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="61" />
+        <Label Content="GA Iteration :" Height="24" HorizontalAlignment="Left" Margin="15,142,0,0" Name="label4" VerticalAlignment="Top" Width="82" />
+        <Label Content="0" HorizontalAlignment="Left" Margin="100,142,0,0" Name="IterationLabel" VerticalAlignment="Top" />
+        <Label Content="Number Of Test Cases In Optimumization :" HorizontalAlignment="Left" Margin="48,12,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Height="26" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="296,12,0,0" Name="OptimumTestTextBox" Text="5" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="61" />
+    </Grid>
+</Window>

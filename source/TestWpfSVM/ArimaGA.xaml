@@ -1,0 +1,25 @@
+﻿<Window x:Class="TestWpfSVM.ArimaGA"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExecCommandWindow" Height="386" Width="545" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="4*" />
+        </Grid.RowDefinitions>
+        <TextBox MinHeight="22" Name="CommandTextBox" MinWidth="200" VerticalAlignment="Center" VerticalContentAlignment="Center" Margin="86,85,65,10" KeyDown="CommandTextBox_KeyDown" AcceptsTab="True" AutoWordSelection="True" />
+        <Label Content="Command &gt;&gt;" Height="24" Name="label1" VerticalAlignment="Center" VerticalContentAlignment="Center" Margin="0,84,364,10" />
+        <Button Content="Execute" Height="21" Name="ExecuteButton" Width="53" VerticalAlignment="Center" VerticalContentAlignment="Center" Margin="0,83,8,10" Click="ExecuteButton_Click" HorizontalAlignment="Right" />
+        <ListBox Name="ResultListBox" VerticalContentAlignment="Center" MinHeight="200" Grid.Row="1" MaxHeight="300" />
+        <Label FontSize="20" Content="Execute Your Matlab Codes Here" MinWidth="330" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10" Name="label2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Button MinWidth="100" Margin="0,0,8,0" Content="Load From File" Name="button1" VerticalAlignment="Center" HorizontalAlignment="Right" Click="button1_Click" />
+        <Button Content="Start Arima" Height="32" HorizontalAlignment="Left" Margin="263,49,0,0" Name="button2" VerticalAlignment="Top" Width="100" Click="button2_Click" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="126,52,0,0" Name="ColumnNumberTextBox" VerticalAlignment="Top" Width="53" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Text="6" />
+        <Label Content="Number Of Inputs" Height="25" HorizontalAlignment="Left" Margin="14,52,0,0" Name="label3" VerticalAlignment="Top" Width="106" />
+        <ComboBox Height="21" HorizontalAlignment="Left" Margin="185,54,0,0" Name="CompareComboBox" VerticalAlignment="Top" Width="72" SelectedIndex="0">
+            <ComboBoxItem Content="MSE" />
+            <ComboBoxItem Content="ERROR%" />
+        </ComboBox>
+    </Grid>
+</Window>

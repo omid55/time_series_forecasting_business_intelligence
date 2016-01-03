@@ -1,0 +1,21 @@
+﻿<Window x:Class="TestWpfSVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <Menu Height="26" HorizontalAlignment="Left" Margin="0,-1,0,0" Name="menu1" VerticalAlignment="Top" Width="280" >
+            <MenuItem Header="My Algorithms">
+                <MenuItem Header="Arima+GA" Name="ArimaGA" Click="ArimaGA_Click"></MenuItem>
+                <MenuItem Header="Neural Network+GA" Name="NetGA" Click="NetGA_Click"></MenuItem>
+                <MenuItem Header="SVM" Name="SVM" Click="SVM_Click"></MenuItem>
+                <MenuItem Header="Hybrid Complex Model" Name="SVMArima" Click="Complex_Model_Click"></MenuItem>
+                <MenuItem Header="Hybrid Model Arima+SVM" Name="ArimaSVM" Click="Arima_SVM_Click"></MenuItem>
+                <MenuItem Header="Best Hybrid Model" Name="BestHybridModel" Click="Best_Hyrbid_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <Button Content="Open A Time Seri Array" Height="46" HorizontalAlignment="Left" Margin="63,125,0,0" Name="button1" VerticalAlignment="Top" Width="164" Click="button1_Click" />
+        <TextBox Height="27" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="157,78,0,0" Name="NumberOfInpTextBox" VerticalAlignment="Top" Width="62" />
+        <Label Content="Number Of Inputs :  " Height="27" HorizontalAlignment="Left" Margin="37,78,0,0" Name="label1" VerticalAlignment="Top" Width="118" />
+        <Label FontSize="8" Content="(please browse a coulmn vector file)" Height="24" HorizontalAlignment="Left" Margin="76,172,0,0" Name="label2" VerticalAlignment="Top" Width="145" />
+    </Grid>
+</Window>

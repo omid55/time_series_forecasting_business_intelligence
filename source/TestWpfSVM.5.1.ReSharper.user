@@ -1,0 +1,601 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:SVMWindow.xaml" caret="27" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:NetGAxaml.xaml" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml" caret="2390" fromTop="2" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:NetGAxaml.xaml.cs" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:Dimension.cs" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:MatlabCodes/f:MyGA1.m" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:MatlabCodes/f:MyGA2.m" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:MatlabCodes/f:MyGA_3.m" caret="506" fromTop="10" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:Pair.cs" caret="606" fromTop="17" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:MatlabCodes/f:MyGA3.m" caret="1004" fromTop="25" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:TimeSeriClasses/f:MyErrorParameters.cs" caret="446" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:HybridComplexModel.xaml" caret="1" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml" caret="255" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:TimeSeriClasses/f:MyTimeSeri.cs" caret="251" fromTop="14" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:TimeSeriClasses/f:MyTimeSeriForBestHybrid.cs" caret="480" fromTop="17" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:HybridArimaSVM.xaml.cs" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:HybridComplexModel.xaml.cs" caret="7553" fromTop="10" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:TimeSeriClasses/f:MyCategorizedTimeSeri.cs" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:App.xaml" caret="223" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:MainWindow.xaml" caret="1013" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:TimeSeriClasses/f:TimeSeriGenerator.cs" caret="5137" fromTop="16" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/d:MatlabCodes/f:MyGA_1.m" caret="0" fromTop="0" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:MainWindow.xaml.cs" caret="1355" fromTop="21" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="5540" fromTop="10" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:SVMWindow.xaml.cs" caret="3064" fromTop="4" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="8640" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="23946" fromTop="19" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="26395" fromTop="11" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="967" fromTop="13" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="19178" fromTop="12" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="18772" fromTop="20" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="18108" fromTop="19" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="18387" fromTop="24" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="17133" fromTop="10" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="19178" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="19577" fromTop="12" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12063" fromTop="14" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12063" fromTop="14" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12063" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12063" fromTop="6" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12063" fromTop="14" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="12091" fromTop="9" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="11438" fromTop="20" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="34998" fromTop="9" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="8616" fromTop="3" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="30015" fromTop="9" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="6250" fromTop="20" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="5703" fromTop="52" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="4094" fromTop="16" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="3730" fromTop="7" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="4065" fromTop="15" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="3846" fromTop="11" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="5683" fromTop="25" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:BestHybrid.xaml.cs" caret="5669" fromTop="12" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="8328" fromTop="6" />
+      <File id="5D45EEC2-44D7-4909-8F4F-9BEFA0619EBF/f:ArimaGA.xaml.cs" caret="8629" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="44" />
+      <Item value="MainWindow`0" priority="0" />
+      <Item value="SVMWindow`0" priority="0" />
+      <Item value="writer" priority="4" />
+      <Item value="MessageBox`0" priority="14" />
+      <Item value="MessageBoxButton`0" priority="8" />
+      <Item value="MessageBoxImage`0" priority="7" />
+      <Item value="double" priority="75" />
+      <Item value="arimaModel" priority="13" />
+      <Item value="SVM`0" priority="2" />
+      <Item value="null" priority="12" />
+      <Item value="return" priority="25" />
+      <Item value="getErrorOfArimaModel`0" priority="1" />
+      <Item value="float" priority="63" />
+      <Item value="int" priority="34" />
+      <Item value="l" priority="16" />
+      <Item value="dim" priority="14" />
+      <Item value="inputs" priority="8" />
+      <Item value="private" priority="14" />
+      <Item value="testArima" priority="2" />
+      <Item value="new" priority="40" />
+      <Item value="NUMBER_OF_TEST_CASES_IN_HYBRID" priority="2" />
+      <Item value="inputsHybrid" priority="2" />
+      <Item value="outputsHybrid" priority="2" />
+      <Item value="Matrix&lt;float&gt;" priority="11" />
+      <Item value="testOutputHybrid" priority="2" />
+      <Item value="j" priority="1" />
+      <Item value="svmModel" priority="7" />
+      <Item value="for" priority="34" />
+      <Item value="testInputHybrid" priority="1" />
+      <Item value="result" priority="15" />
+      <Item value="hybridWriter" priority="1" />
+      <Item value="errorPercent" priority="3" />
+      <Item value="const" priority="2" />
+      <Item value="string" priority="7" />
+      <Item value="String`0" priority="5" />
+      <Item value="OK" priority="1" />
+      <Item value="ValidationResult`0" priority="0" />
+      <Item value="NonlinearRegressionModel`0" priority="1" />
+      <Item value="nonlinearRegressionModel" priority="5" />
+      <Item value="NonlinearRegressionModel" priority="2" />
+      <Item value="model" priority="2" />
+      <Item value="trainArima" priority="1" />
+      <Item value="LinearRegressionModel`0" priority="1" />
+      <Item value="LinearRegressionModel" priority="0" />
+      <Item value="sunspots" priority="1" />
+      <Item value="static" priority="4" />
+      <Item value="T" priority="9" />
+      <Item value="Length" priority="27" />
+      <Item value="i" priority="15" />
+      <Item value="rows" priority="6" />
+      <Item value="numberOfInputs" priority="4" />
+      <Item value="timeSeri" priority="13" />
+      <Item value="T`0" priority="24" />
+      <Item value="output" priority="0" />
+      <Item value="MyTimeSeri" priority="4" />
+      <Item value="Seri" priority="0" />
+      <Item value="inp" priority="0" />
+      <Item value="outpurs" priority="0" />
+      <Item value="outp" priority="0" />
+      <Item value="void" priority="9" />
+      <Item value="bool" priority="4" />
+      <Item value="true" priority="1" />
+      <Item value="StreamWriter" priority="2" />
+      <Item value="filePath" priority="0" />
+      <Item value="sw" priority="7" />
+      <Item value="GetLength`0" priority="11" />
+      <Item value="target" priority="8" />
+      <Item value="targets" priority="6" />
+      <Item value="cols" priority="1" />
+      <Item value="TimeSeriGenerator" priority="3" />
+      <Item value="input" priority="0" />
+      <Item value="var" priority="9" />
+      <Item value="res" priority="4" />
+      <Item value="StreamReader" priority="0" />
+      <Item value="ofd" priority="0" />
+      <Item value="while" priority="2" />
+      <Item value="sr" priority="1" />
+      <Item value="List" priority="9" />
+      <Item value="List&lt;float&gt;" priority="6" />
+      <Item value="myTimeSeri" priority="5" />
+      <Item value="Exception`0" priority="3" />
+      <Item value="ex" priority="0" />
+      <Item value="StartButton" priority="0" />
+      <Item value="train" priority="9" />
+      <Item value="test" priority="6" />
+      <Item value="size" priority="2" />
+      <Item value="testHybrid" priority="1" />
+      <Item value="if" priority="12" />
+      <Item value="else" priority="2" />
+      <Item value="line" priority="11" />
+      <Item value="k" priority="0" />
+      <Item value="NUMBER_OF_HYBRID_TEST" priority="2" />
+      <Item value="content" priority="0" />
+      <Item value="MLApp" priority="1" />
+      <Item value="MLApp`0" priority="0" />
+      <Item value="Matrix`0" priority="0" />
+      <Item value="StartArima`0" priority="2" />
+      <Item value="StartSVM`0" priority="0" />
+      <Item value="data" priority="6" />
+      <Item value="Matrix" priority="0" />
+      <Item value="arimaPred" priority="0" />
+      <Item value="Vector`0" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="Queue" priority="4" />
+      <Item value="Queue&lt;T&gt;" priority="0" />
+      <Item value="q" priority="8" />
+      <Item value="numberOfInputss" priority="1" />
+      <Item value="timeSeriGenerator" priority="20" />
+      <Item value="TimeSeriGenerator&lt;float&gt;" priority="1" />
+      <Item value="valuePred" priority="0" />
+      <Item value="residualPred" priority="0" />
+      <Item value="FlagsAttribute`0" priority="1" />
+      <Item value="results" priority="4" />
+      <Item value="resultValue" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="values" priority="5" />
+      <Item value="MyErrorParameters`0" priority="6" />
+      <Item value="do" priority="1" />
+      <Item value="StreamWriter`0" priority="2" />
+      <Item value="foreach" priority="2" />
+      <Item value="outputWriter" priority="2" />
+      <Item value="out" priority="1" />
+      <Item value="HybridArimaSVM`0" priority="0" />
+      <Item value="matlab" priority="1" />
+      <Item value="Queue&lt;float&gt;" priority="1" />
+      <Item value="outputFileName" priority="0" />
+      <Item value="NumberOfInpTextBox" priority="0" />
+      <Item value="saveFilePath" priority="0" />
+      <Item value="sfd" priority="0" />
+      <Item value="bestD" priority="6" />
+      <Item value="List&lt;double&gt;" priority="0" />
+      <Item value="Zt" priority="9" />
+      <Item value="residual" priority="3" />
+      <Item value="Enum`0" priority="5" />
+      <Item value="value" priority="2" />
+      <Item value="SVM_KERNEL_TYPE`0" priority="2" />
+      <Item value="tp" priority="1" />
+      <Item value="minError" priority="1" />
+      <Item value="error" priority="8" />
+      <Item value="eps" priority="1" />
+      <Item value="bestEps" priority="1" />
+      <Item value="bestKernelType" priority="1" />
+      <Item value="trained" priority="0" />
+      <Item value="false" priority="5" />
+      <Item value="index" priority="2" />
+      <Item value="n" priority="1" />
+      <Item value="trainData" priority="1" />
+      <Item value="lastR" priority="1" />
+      <Item value="nextInput" priority="4" />
+      <Item value="a" priority="2" />
+      <Item value="Et" priority="14" />
+      <Item value="gaLogger" priority="4" />
+      <Item value="y" priority="6" />
+      <Item value="NUMBER_OF_TEST_CASES_IN_GA_OPTIMUM" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="LocalDataStoreSlot`0" priority="0" />
+      <Item value="MyCategorizedTimeSeri" priority="1" />
+      <Item value="tmp" priority="8" />
+      <Item value="myCategorizedTimeSeri" priority="21" />
+      <Item value="MyCategorizedTimeSeri&lt;T&gt;" priority="0" />
+      <Item value="numberOfForecastTests" priority="9" />
+      <Item value="numberOfInputVariables" priority="1" />
+      <Item value="loadedTimeSeri" priority="0" />
+      <Item value="load`0" priority="1" />
+      <Item value="try" priority="3" />
+      <Item value="catch" priority="4" />
+      <Item value="generate`0" priority="0" />
+      <Item value="numberOfVar" priority="2" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="OptimumTestTextBox" priority="0" />
+      <Item value="numberOfTests" priority="3" />
+      <Item value="testData" priority="0" />
+      <Item value="testClasses" priority="3" />
+      <Item value="TrainInputs" priority="6" />
+      <Item value="TestInputs" priority="4" />
+      <Item value="Array`0" priority="0" />
+      <Item value="TrainTargets" priority="1" />
+      <Item value="TestTargets" priority="1" />
+      <Item value="base" priority="0" />
+      <Item value="Convert`0" priority="2" />
+      <Item value="typeof" priority="2" />
+      <Item value="Type`0" priority="2" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="Type" priority="0" />
+      <Item value="parseMethod" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="z" priority="2" />
+      <Item value="numOfInp" priority="3" />
+      <Item value="Math`0" priority="1" />
+      <Item value="inps" priority="7" />
+      <Item value="targs" priority="2" />
+      <Item value="TimeSeri" priority="0" />
+      <Item value="targetIndex" priority="0" />
+      <Item value="trainInputs" priority="1" />
+      <Item value="trainTargets" priority="1" />
+      <Item value="testInputs" priority="0" />
+      <Item value="testTargets" priority="1" />
+      <Item value="ProgressBar`0" priority="0" />
+      <Item value="ActivityProgressBar" priority="0" />
+      <Item value="thread" priority="2" />
+      <Item value="Thread" priority="0" />
+      <Item value="ThreadStart" priority="0" />
+      <Item value="worker" priority="2" />
+      <Item value="BackgroundWorker" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Dispatcher" priority="4" />
+      <Item value="delegate" priority="0" />
+      <Item value="Action`0" priority="1" />
+      <Item value="selected" priority="3" />
+      <Item value="trainClasses" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="getMyVariable`0" priority="1" />
+      <Item value="_first" priority="2" />
+      <Item value="_second" priority="2" />
+      <Item value="Pair" priority="1" />
+      <Item value="bestB" priority="2" />
+      <Item value="b" priority="1" />
+      <Item value="Pair&lt;int&gt;" priority="0" />
+      <Item value="bestA" priority="1" />
+      <Item value="First" priority="0" />
+      <Item value="bestAB" priority="11" />
+      <Item value="testIn" priority="0" />
+      <Item value="EtQueue" priority="5" />
+      <Item value="svmModelHybrid" priority="1" />
+      <Item value="inpTest" priority="3" />
+      <Item value="TouchUpEvent" priority="0" />
+      <Item value="ZtQueue" priority="1" />
+      <Item value="EQArray" priority="0" />
+      <Item value="minErr" priority="0" />
+      <Item value="nextValues" priority="1" />
+      <Item value="arimaModelFunction`0" priority="1" />
+      <Item value="bestP" priority="1" />
+      <Item value="bestQ" priority="1" />
+      <Item value="mse" priority="1" />
+      <Item value="ManipulationStartingEvent" priority="0" />
+      <Item value="testOutputs" priority="0" />
+      <Item value="AttributeTargets`0" priority="0" />
+      <Item value="Floater`0" priority="0" />
+      <Item value="MyTimeSeriForBestHybrid" priority="1" />
+      <Item value="MyTimeSeriForBestHybrid&lt;T&gt;" priority="0" />
+      <Item value="leng" priority="0" />
+      <Item value="myTimeSeriForBestHybrid" priority="15" />
+      <Item value="p" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="List&lt;T&gt;" priority="2" />
+      <Item value="part2" priority="0" />
+      <Item value="testCases" priority="0" />
+      <Item value="myBestP" priority="0" />
+      <Item value="myBestQ" priority="3" />
+      <Item value="db" priority="1" />
+      <Item value="Lt" priority="6" />
+      <Item value="myBestD" priority="1" />
+      <Item value="arimaLogger" priority="0" />
+      <Item value="Double`0" priority="0" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="forcastedVector" priority="2" />
+      <Item value="loaded" priority="0" />
+      <Item value="OnRender`0" priority="0" />
+      <Item value="errorMode" priority="0" />
+      <Item value="errorOfArima" priority="0" />
+      <Item value="d" priority="0" />
+      <Item value="ArimaModel" priority="0" />
+      <Item value="ArimaGA`0" priority="2" />
+      <Item value="ArimaGA" priority="1" />
+      <Item value="aga" priority="3" />
+      <Item value="ApartmentState`0" priority="0" />
+      <Item value="Void`0" priority="0" />
+      <Item value="LoadData`0" priority="0" />
+      <Item value="forecastedVector" priority="0" />
+      <Item value="svmMod" priority="0" />
+      <Item value="predictedV" priority="1" />
+      <Item value="me" priority="0" />
+      <Item value="ml" priority="0" />
+      <Item value="TimeSeriGenerator&lt;double&gt;" priority="0" />
+      <Item value="SVM" priority="0" />
+      <Item value="Extreme" priority="0" />
+      <Item value="Statistics" priority="0" />
+      <Item value="TimeSeriesAnalysis" priority="0" />
+      <Item value="TimeSeriesFunctions`0" priority="0" />
+      <Item value="arga" priority="0" />
+      <Item value="ZtArima" priority="0" />
+      <Item value="EtArima" priority="0" />
+      <Item value="ArimaModel`0" priority="1" />
+      <Item value="EtArimaModel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.MainWindow">
+      <Item value="ShouldSerializeCommandBindings`0" priority="0" />
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Flush`0" priority="9" />
+      <Item value="Close`0" priority="5" />
+      <Item value="WriteLine`0" priority="11" />
+      <Item value="Write`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Information" priority="3" />
+      <Item value="Error" priority="2" />
+      <Item value="Asterisk" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ToArray`0" priority="19" />
+      <Item value="Add`0" priority="20" />
+      <Item value="Count" priority="14" />
+      <Item value="Average`1" priority="2" />
+      <Item value="RemoveRange`0" priority="0" />
+      <Item value="toar" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.Dimension">
+      <Item value="m" priority="2" />
+      <Item value="n" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Emgu.CV.ML.SVM">
+      <Item value="Predict`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Emgu.CV.Matrix`1">
+      <Item value="GetRow`0" priority="1" />
+      <Item value="Data" priority="4" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Statistics.TimeSeriesAnalysis.ArimaModel">
+      <Item value="Forecast`0" priority="8" />
+      <Item value="Parameters" priority="1" />
+      <Item value="ResetComputation`0" priority="0" />
+      <Item value="AnovaTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Statistics.ParameterCollection">
+      <Item value="Zip`3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Statistics.AnovaTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Statistics.NonlinearRegressionModel">
+      <Item value="Residuals" priority="0" />
+      <Item value="Compute`0" priority="0" />
+      <Item value="Parameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Statistics.LinearRegressionModel">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="HasValue" priority="1" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="SafeFileName" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadLine`0" priority="1" />
+      <Item value="EndOfStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestWpfSVM.TimeSeriGenerator`1">
+      <Item value="Generate`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.MyTimeSeri`1">
+      <Item value="write2File`0" priority="0" />
+      <Item value="inputs" priority="2" />
+      <Item value="targets" priority="1" />
+      <Item value="write2FileWithBrowse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+      <Item value="StackTrace" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.TimeSeriGenerator`1">
+      <Item value="timeSeri" priority="3" />
+      <Item value="getLastInputForTesting`0" priority="0" />
+      <Item value="numberOfInputVariables" priority="1" />
+      <Item value="generate`0" priority="2" />
+      <Item value="generateWithThisData`0" priority="1" />
+      <Item value="load`0" priority="2" />
+      <Item value="generateForBestHybrid`0" priority="0" />
+      <Item value="TimeSeri" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Queue`1">
+      <Item value="Enqueue`0" priority="6" />
+      <Item value="ToArray`0" priority="3" />
+      <Item value="Dequeue`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TestWpfSVM.MyErrorParameters">
+      <Item value="MSE`0" priority="4" />
+      <Item value="ERROR_Percent`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.HybridArimaSVM">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MLApp.MLApp">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="2" />
+      <Item value="Max`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Emgu.CV.ML.MlEnum.SVM_KERNEL_TYPE">
+      <Item value="POLY" priority="1" />
+      <Item value="LINEAR" priority="0" />
+      <Item value="RBF" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues`0" priority="1" />
+      <Item value="Parse`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Count`1" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.TimeSeriClasses.MyCategorizedTimeSeri`1">
+      <Item value="TrainInputs" priority="4" />
+      <Item value="TrainTargets" priority="3" />
+      <Item value="TimeSeri" priority="1" />
+      <Item value="TestInputs" priority="4" />
+      <Item value="TestTargets" priority="5" />
+      <Item value="ForecastTestInputs" priority="2" />
+      <Item value="ForecastTestTargets" priority="2" />
+      <Item value="getTrainWithTestInputs`0" priority="0" />
+      <Item value="getTrainWithTestTargets`0" priority="0" />
+      <Item value="getInputsForTarget`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@T">
+      <Item value="Parse`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ChangeType`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="InvokeMember`0" priority="0" />
+      <Item value="GetMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Invoke`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ProgressBar">
+      <Item value="IsIndeterminateProperty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="IsIndeterminate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="0" />
+      <Item value="ApartmentState" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.BackgroundWorker">
+      <Item value="DoWork" priority="0" />
+      <Item value="RunWorkerAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="Invoke`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.HybridComplexModel">
+      <Item value="Dispatcher" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.Pair`1">
+      <Item value="First" priority="5" />
+      <Item value="Second" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Extreme.Mathematics.Vector">
+      <Item value="ToArray`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="Closing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.TimeSeriClasses.MyTimeSeriForBestHybrid`1">
+      <Item value="part1" priority="8" />
+      <Item value="part2" priority="6" />
+      <Item value="testCases" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.BestHybrid">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestWpfSVM.ArimaGA">
+      <Item value="train" priority="0" />
+      <Item value="test" priority="0" />
+      <Item value="StartArima`0" priority="2" />
+      <Item value="bestP" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ApartmentState">
+      <Item value="STA" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Extreme.Statistics.TimeSeriesAnalysis.TimeSeriesFunctions">
+      <Item value="PartialAutocorrelationFunction`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

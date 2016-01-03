@@ -1,0 +1,8 @@
+﻿<Window x:Class="TestWpfSVM.SVMWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SVM Window" Height="350" Width="525">
+    <Grid>
+        <Button Content="Start SVM" Height="52" HorizontalAlignment="Left" Margin="171,139,0,0" Name="button1" VerticalAlignment="Top" Width="150" Click="button1_Click" />
+    </Grid>
+</Window>
